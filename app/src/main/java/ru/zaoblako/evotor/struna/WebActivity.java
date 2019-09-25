@@ -21,7 +21,7 @@ public class WebActivity extends IntegrationAppCompatActivity {
 
         webView = findViewById(R.id.webView);
         webView.getSettings().setJavaScriptEnabled(true);
-        webView.loadUrl("http://46.101.107.28/strunaplus");
+        webView.loadUrl("http://195.208.37.111");
     }
 
 
